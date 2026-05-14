@@ -6,12 +6,13 @@ Topics included:
 - VLAN segmentation
 - Inter-VLAN routing
 - HSRP
-- OSPF
+- routing: OSPF, static route
 - DHCP
 - Wireless LAN Controller (WLC)
 - WLAN segmentation
-- Voice VLANs
-- Network troubleshooting
+- STP/Pvstp
+- Etherchannel 
+- troubleshooting
 
 Main lab:
 - Enterprise_Topology.pkt
